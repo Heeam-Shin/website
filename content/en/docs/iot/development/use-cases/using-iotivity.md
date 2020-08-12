@@ -4,7 +4,7 @@ date: 2020-03-17
 weight: 10
 toc: true
 ---
-
+qwdwqwq
 webOS IoT includes [IoTivity](https://iotivity.org/) and [iotivity-node](http://github.com/intel/iotivity-node) for developers to implement JS services that are needed to support IoT connectivity based on [Open Connectivity Foundation](http://openconnectivity.org/) (OCF) standard specification.
 
   - IoTivity: The open source reference implementation of the OCF standard specifications.
